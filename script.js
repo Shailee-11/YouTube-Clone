@@ -1,5 +1,5 @@
 const searchInput = document.getElementById("searchBar");
-const apiKey = "AIzaSyDsig-SzLP_5kicvhamY8ZgnXMmg5zK16g";
+const apiKey = "AIzaSyDMgL3wykeqn_YgepTEaOSz47aMKE8t2to";
 localStorage.setItem("api_key", apiKey);
 const videoContainer = document.getElementById("videoContainer");
 
